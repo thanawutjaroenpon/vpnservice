@@ -2,14 +2,21 @@
    "files": [   
 
 {
-         "name": "TH_DTAC-01",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/TH_DTAC-01.ovpn"
+         "name": "TH_TRUE-01",
+         "url": "https://raw.githubusercontent.com/thanawutjaroenpon/vpnservice/main/MKVPN05.ovpn"
       
             },
       
     {
-         "name": "TH_TRUE-01",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/TH_TRUE-01.ovpn"
+         "name": "TH_TRUE-02",
+         "url": "https://raw.githubusercontent.com/thanawutjaroenpon/vpnservice/main/MKVPN06.ovpn"
+      
+      
+
+      }
+      {
+         "name": "TH_TRUE-03",
+         "url": "https://raw.githubusercontent.com/thanawutjaroenpon/vpnservice/main/MKVPN07.ovpn"
       
       
 
@@ -26,5 +33,5 @@
    ],
 "message":" \nตรงนี้จะเขียนอะไรก็เขียนครับรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\n คอนฟิกเวอร์ชั่น: 4.1 \nอัพเดทเมื่อวันที่: 20/12/2022\n \nผู้พัฒนาแอพ:MKSHOP\n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 4.1
+   "version": 1.0
 }
